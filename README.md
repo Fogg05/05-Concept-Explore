@@ -33,9 +33,7 @@
 
 The following terms might change in the future, the lastest version shall prevail. Please be aware to the changes in the future.
 
-以下使用条款在将来可能会发生变化，请以最新版本为准。请关注条款内容的变化。
-
-〇 The Chinese version shall prevail.
+The Chinese version shall prevail.
 
 As a user, you CAN:
 
@@ -68,6 +66,8 @@ If you have any special needs, please contact me for aut horization first.
 In extremely rare cases, using the resource pack may cause damage to your device. (e.g: Increase power consumption, induce graphics card burning interface, power tripping, device fire, power supply explosion, system file corruption, data loss... ) We will not be responsible for any damage.
 
 # 使用条款
+
+以下使用条款在将来可能会发生变化，请以最新版本为准。请关注条款内容的变化。
 
 作为作品的使用者，您可以进行以下行为：
 
