@@ -7,7 +7,7 @@
 
 # 开拓构想
 
-# Discription:
+# Discription
 
 
 
